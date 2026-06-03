@@ -1,5 +1,12 @@
+@import "tailwindcss";
+
+
 body {
   margin: 0;
   background-color: #f0f2f5; /* لون خلفية هادئ خلف اللوحة */
   font-family: sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
 }
